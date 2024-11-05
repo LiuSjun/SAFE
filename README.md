@@ -15,7 +15,7 @@ Segmentation of Any Fire Event (SAFE): A rapid and high-precision approach for b
 **SAFE (Segmentation of Any Fire Event)** is an adaptive model designed for segmentation of burned area from remote sensing imagery. Building upon the 'Segment Anything Model', it boasts enhanced zero-shot performance in remote sensing image analysis.
 
 <p align="center">
-  <img src="pic/Fig2.png?raw=true" width="37.25%" />
+  <img src="SAFE.png?raw=true" width="37.25%" />
 </p>
 
 ## Installation and Requirements
