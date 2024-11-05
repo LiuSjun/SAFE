@@ -85,26 +85,21 @@ For detailed examples, see our [notebooks](/notebooks/SAFE_example.ipynb).
 Explore the `SAFE` one-page app for intuitive mask prediction. Detailed instructions are available in [`SAFEWindow.md`](https://github.com/LiuSjun/SAFE/README.md).
 
 #### Demo Steps
-1. **Start the Demo**: Double-click 'SAFE.exe'.
+1. **Download Sentinel-2 and DW Data**: Access the data platform and download Sentinel-2 and DW datasets for the area of interest.
    <p align="center">
-     <img src="pic/Step1.gif?raw=true" width="50.25%" />
+     <img src="Download.png?raw=true" width="50.25%" />
    </p>
 
-2. **Select and Open Image**.
+2. **Input Model and Set Model Parameters**: Load the downloaded Sentinel-2 and DW data into the model. Configure the necessary model parameters, such as spatial resolution, spectral bands, and processing options.
    <p align="center">
-     <img src="pic/step2.gif?raw=true" width="50.25%" />
+     <img src="LocalSetting.png?raw=true" width="50.25%" />
    </p>
 
-3. **Import or Auto-Select Processing Area**.
+3. **Save and Export Output Results**: After processing, save the output data, specifying the desired format and location for export.
    <p align="center">
-     <img src="pic/step3.gif?raw=true" width="50.25%" />
+     <img src="Pic2.png?raw=true" width="50.25%" />
    </p>
 
-4. **Extract Missing BAs (Burn Area)** (manually or automatically).
-   <p align="center">
-     <img src="pic/step4.gif?raw=true" width="50.25%" />
-     <img src="pic/step5.gif?raw=true" width="50.25%" />
-   </p>
 
 ## License and Citation
 
