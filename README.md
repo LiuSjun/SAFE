@@ -85,7 +85,7 @@ For detailed examples, see our [notebooks](/notebooks/SAFE_example.ipynb).
 Explore the `SAFE` one-page app for intuitive mask prediction. Detailed instructions are available in [`SAFEWindow.md`](https://github.com/LiuSjun/SAFE/README.md).
 
 #### Demo Steps
-1. **Start the Demo**: Double-click 'STAMP.exe'.
+1. **Start the Demo**: Double-click 'SAFE.exe'.
    <p align="center">
      <img src="pic/Step1.gif?raw=true" width="50.25%" />
    </p>
@@ -100,7 +100,7 @@ Explore the `SAFE` one-page app for intuitive mask prediction. Detailed instruct
      <img src="pic/step3.gif?raw=true" width="50.25%" />
    </p>
 
-4. **Extract Missing PFs** (manually or automatically).
+4. **Extract Missing BAs (Burn Area)** (manually or automatically).
    <p align="center">
      <img src="pic/step4.gif?raw=true" width="50.25%" />
      <img src="pic/step5.gif?raw=true" width="50.25%" />
