@@ -8,7 +8,7 @@ Segmentation of Any Fire Event (SAFE): A rapid and high-precision approach for b
 > Resources: [[`Academic Paper`]] [[`Demo`]]
 
 <p align="center">
-  <img src="pic/flowchart.png?raw=true" width="50.25%" />
+  <img src="flowchart.png?raw=true" width="50.25%" />
 </p>
 
 ## Overview
